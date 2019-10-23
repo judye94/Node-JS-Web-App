@@ -1,4 +1,4 @@
-# Base Web App
+# Node JS Web App
 
 Check it out at: https://intense-depths-97149.herokuapp.com/
 
